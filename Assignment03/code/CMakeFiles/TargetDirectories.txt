@@ -1,0 +1,3 @@
+/mnt/c/Users/Rahul/Documents/CG Assignment 3/code/CMakeFiles/Assignment03.dir
+/mnt/c/Users/Rahul/Documents/CG Assignment 3/code/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Rahul/Documents/CG Assignment 3/code/CMakeFiles/rebuild_cache.dir

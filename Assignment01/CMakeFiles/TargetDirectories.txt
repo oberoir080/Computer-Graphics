@@ -1,0 +1,3 @@
+/home/rahul/Documents/Computer Graphics/code/CMakeFiles/Assignment01.dir
+/home/rahul/Documents/Computer Graphics/code/CMakeFiles/edit_cache.dir
+/home/rahul/Documents/Computer Graphics/code/CMakeFiles/rebuild_cache.dir
